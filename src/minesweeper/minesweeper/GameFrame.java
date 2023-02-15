@@ -183,7 +183,7 @@ public class GameFrame extends JFrame implements ActionListener {
         }
     }
 
-    // If a block is right clicked
+    // If a block is right-clicked
     public void buttonRightClicked(int x, int y) {
         Icon icon = new Icon();
 
